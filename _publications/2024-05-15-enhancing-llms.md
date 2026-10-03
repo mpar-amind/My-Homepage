@@ -1,13 +1,14 @@
 ---
-title: "Enhancing Large Language Models with Advanced Fine-Tuning Techniques"
+title: "Enhancing Large Language Models with Advanced Training Techniques"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-05-15-enhancing-llms
-excerpt: 'This paper explores novel fine-tuning methods to improve the performance of LLMs in domain-specific tasks, achieving state-of-the-art results on benchmarks like GLUE and SuperGLUE.'
+excerpt: 'This paper proposes advanced training techniques to enhance the performance of LLMs on downstream tasks, with empirical results showing significant improvements in accuracy and efficiency.'
 date: 2024-05-15
-venue: 'Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)'
+venue: 'Accepted at COML 2025 - Conference on Machine Learning'
 slidesurl: 'http://yourwebsite.com/files/slides-enhancing-llms.pdf'
-paperurl: 'http://yourwebsite.com/files/paper-enhancing-llms.pdf'
+paperurl: 'https://example.com/coml-paper'
+coderepository: 'https://github.com/mpar-amind/enhancing-llms'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-enhancing-llms.bib'
-citation: 'John Smith, et al. (2024). "Enhancing Large Language Models with Advanced Fine-Tuning Techniques." <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</i>.'
+citation: 'John Smith, et al. (2024). "Enhancing Large Language Models with Advanced Training Techniques." <i>Accepted at COML 2025 - Conference on Machine Learning</i>.'
 ---
